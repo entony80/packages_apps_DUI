@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2014-2015 The Dirty Unicorns Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Bindable action labels -->
+    <string name="label_action_no_action">Не выбрано</string>
+    <string name="label_action_settings_panel">Панель настроек</string>
+    <string name="label_action_notification_panel">Панель уведомлений</string>
+    <string name="label_action_screenshot">Скриншот</string>
+    <string name="label_action_screenrecord">Запись экрана</string>
+    <string name="label_action_expanded_desktop">Раширенный рабочий стол</string>
+    <string name="label_action_screen_off">Выключение экрана</string>
+    <string name="label_action_force_close_app">Действие выключения</string>
+    <string name="label_action_search_assistant">Поисковый ассистент</string>
+    <string name="label_action_google_now_on_tap">Google Now On Tap</string>
+    <string name="label_action_voice_search">Голосовой поиск</string>
+    <string name="label_action_flashlight">Фонарик</string>
+    <string name="label_action_bluetooth">Bluetooth</string>
+    <string name="label_action_wifi">WiFi</string>
+    <string name="label_action_hotspot">Hotspot</string>
+    <string name="label_action_last_app">Последнее приложение</string>
+    <string name="label_action_overview">Обзор</string>
+    <string name="label_action_power_menu">Меню выключения</string>
+    <string name="label_action_menu">Меню</string>
+    <string name="label_action_back">Назад</string>
+    <string name="label_action_home">Home</string>
+    <string name="label_action_ime_switcher">Переключатель клавиатуры</string>
+    <string name="label_action_stop_screenpinning">Стоп экран пиннинг</string>
+    <string name="label_action_ime_down">Курсор метода ввода внизу</string>
+    <string name="label_action_ime_left">Курсор метода ввода  слева</string>
+    <string name="label_action_ime_right">Курсор метода ввода  справа</string>
+    <string name="label_action_ime_up">Курсор метода ввода  вверху</string>
+
+    <!-- Smartbar -->
+    <string name="label_smartbar_actions">Действие</string>
+    <string name="label_smartbar_icon">Иконки</string>
+    <string name="label_smartbar_add">Добавить</string>
+    <string name="label_smartbar_remove">Удалить</string>
+    <string name="label_smartbar_cancel">Отменить</string>
+    <string name="label_smartbar_finish">Конец</string>
+    <string name="label_smartbar_single_tap">Одиночное нажатие</string>
+    <string name="label_smartbar_double_tap">Двойное нажатие</string>
+    <string name="label_smartbar_long_press">Длительное нажатие</string>
+    <string name="label_smartbar_icon_pack">Икон-пак</string>
+    <string name="label_smartbar_icon_gallery">Галерея</string>
+    <string name="label_smartbar_icon_color">Цвет</string>
+    <string name="label_smartbar_icon_reset">Сбросить</string>
+    <string name="smartbar_editor_toast_starting">Запуск редактора навигации</string>
+    <string name="smartbar_editor_toast_stopping">Остановка редактора навигации</string>
+    <string name="smartbar_editor_toast_unavailable">Редактор навигации недоступен</string>
+
+</resources>
