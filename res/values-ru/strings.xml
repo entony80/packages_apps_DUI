@@ -19,8 +19,8 @@
 
     <!-- Bindable action labels -->
     <string name="label_action_no_action">Не выбрано</string>
-    <string name="label_action_settings_panel">Панель настроек</string>
-    <string name="label_action_notification_panel">Панель уведомлений</string>
+    <string name="label_action_settings_panel">Панель уведомлений</string>
+    <string name="label_action_notification_panel">Заголовок панели уведомлений</string>
     <string name="label_action_screenshot">Скриншот</string>
     <string name="label_action_screenrecord">Запись экрана</string>
     <string name="label_action_expanded_desktop">Раширенный рабочий стол</string>
@@ -33,7 +33,7 @@
     <string name="label_action_bluetooth">Bluetooth</string>
     <string name="label_action_wifi">WiFi</string>
     <string name="label_action_hotspot">Hotspot</string>
-    <string name="label_action_last_app">Последнее приложение</string>
+    <string name="label_action_last_app">Последние приложения</string>
     <string name="label_action_overview">Обзор</string>
     <string name="label_action_power_menu">Меню выключения</string>
     <string name="label_action_menu">Меню</string>
@@ -52,16 +52,16 @@
     <string name="label_smartbar_add">Добавить</string>
     <string name="label_smartbar_remove">Удалить</string>
     <string name="label_smartbar_cancel">Отменить</string>
-    <string name="label_smartbar_finish">Конец</string>
+    <string name="label_smartbar_finish">Выход</string>
     <string name="label_smartbar_single_tap">Одиночное нажатие</string>
     <string name="label_smartbar_double_tap">Двойное нажатие</string>
     <string name="label_smartbar_long_press">Длительное нажатие</string>
-    <string name="label_smartbar_icon_pack">Икон-пак</string>
+    <string name="label_smartbar_icon_pack">Иконпак</string>
     <string name="label_smartbar_icon_gallery">Галерея</string>
     <string name="label_smartbar_icon_color">Цвет</string>
     <string name="label_smartbar_icon_reset">Сбросить</string>
-    <string name="smartbar_editor_toast_starting">Запуск редактора навигации</string>
-    <string name="smartbar_editor_toast_stopping">Остановка редактора навигации</string>
-    <string name="smartbar_editor_toast_unavailable">Редактор навигации недоступен</string>
+    <string name="smartbar_editor_toast_starting">Включение редактирования панели навигации</string>
+    <string name="smartbar_editor_toast_stopping">Выключение редактирования панели навигации</string>
+    <string name="smartbar_editor_toast_unavailable">Редактирования панели навигации невозможно</string>
 
 </resources>
