@@ -25,16 +25,17 @@
     <string name="label_action_screenrecord">Bildschirmaufnahme</string>
     <string name="label_action_expanded_desktop">Erweiterter Desktop</string>
     <string name="label_action_screen_off">Display ausschalten</string>
-    <string name="label_action_force_close_app">FC Anwendung</string>
+    <string name="label_action_force_close_app">Beende Anwendung</string>
     <string name="label_action_search_assistant">Suchassistent</string>
     <string name="label_action_google_now_on_tap">Google Now On Tap</string>
     <string name="label_action_voice_search">Sprachsuche</string>
+    <string name="label_action_in_app_search">Suche in App</string>
     <string name="label_action_flashlight">Taschenlampe</string>
     <string name="label_action_bluetooth">Bluetooth</string>
     <string name="label_action_wifi">WLAN</string>
     <string name="label_action_hotspot">Hotspot</string>
     <string name="label_action_last_app">Letzte App</string>
-    <string name="label_action_overview">Verlauf</string>
+    <string name="label_action_overview">App-Verlauf</string>
     <string name="label_action_power_menu">Ein-/Aus Menü</string>
     <string name="label_action_menu">Menü</string>
     <string name="label_action_back">Zurück</string>
@@ -60,8 +61,8 @@
     <string name="label_smartbar_icon_gallery">Galerie</string>
     <string name="label_smartbar_icon_color">Farbe</string>
     <string name="label_smartbar_icon_reset">Zurücksetzen</string>
-    <string name="smartbar_editor_toast_starting">Starte Navigationseditor</string>
-    <string name="smartbar_editor_toast_stopping">Stoppe Navigationseditor</string>
+    <string name="smartbar_editor_toast_starting">Navigationseditor gestartet</string>
+    <string name="smartbar_editor_toast_stopping">Navigationseditor gestoppt</string>
     <string name="smartbar_editor_toast_unavailable">Navigationseditor nicht verfügbar</string>
 
 </resources>
